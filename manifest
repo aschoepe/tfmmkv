@@ -1,8 +1,17 @@
-C initial\sempty\scheck-in
-D 2024-04-18T12:13:27.752
-R d41d8cd98f00b204e9800998ecf8427e
-T *branch * trunk
-T *sym-trunk *
-U root
-Z e1981811e286492dcafd011da92b7ca6
+C example\scode\sin\svanilla\stcl\sto\sconvert\sfossil\smanifest\sdata\sand\ssample\sbuild-info\sTIP-599
+D 2024-04-18T12:53:04.550
+F Makefile.in 312ba330bca8db87f753c847247e1e4bd389c69fbad421b8ed83bafd22e9888e
+F README a0b26a8933e903623a2e0a236985d20ed26cde30568d72e3120f04c5e156666c
+F configure.ac 92ad428328c244fe68271c17cdc7d439c92cc4c4a69b812c035613a42b92ce4c
+F example.tcl 4261663400afd2ec168550da0a0e1e19cf79c5f6f818a2a0aec484e02cf9c92d
+F manifest_example/build-info.txt 890426f1d125032b2cb1a70426c6a043bd5f1d9ea617ad8b35e2992a71875832
+F manifest_example/manifest 153199157bec93045a88ab9b694e74a576842f81c8bcc3a47a314113dac43b0a
+F manifest_example/manifest.txt 78b40bbdcf4cfb9abc796cc88bd1df4ab607284115375a767112a198c90d3077
+F manifest_example/manifest.uuid 9587f17b9fe33504a184b5a3edcb80719f1b03b23dca829098f2fe39b82a3875
+F tools/mkversion.c 6bd67f53bfadf182e380ad077fc3e2c8a101d4080a891449e10a9b7e43e3956b
+F tools/mkversion.tcl 6231c547912ab89387db6d0ee67dceaad9fd8b18770f901a0f1cad9c73636640
+P a3bfd52a0fa73f6a5fef8f6d6518e7f18d14e1b631ea0f498fe3a36b8f4d48c1
+R e33aa4cb3c72b711beb60d9a75842268
+U alex
+Z 31310c00c1d0ad1e8935815c6357021c
 # Remove this line to create a well-formed Fossil manifest.

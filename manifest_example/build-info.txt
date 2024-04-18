@@ -1,0 +1,6 @@
+default = 1.1+a3bfd52a0f.2024-04-18T12:13:27Z.tcl.noarch
+commit = a3bfd52a0fa73f6a5fef8f6d6518e7f18d14e1b631ea0f498fe3a36b8f4d48c1
+version = 1.1
+patchlevel = 1.1
+compiler = tcl.noarch
+path = .
